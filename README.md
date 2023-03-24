@@ -1,4 +1,6 @@
-# Beargle OS     [![Run on Repl.it](https://replit.com/badge?theme=${theme})](https://repl.it/github/tacocatCLAUS/BeargleOS)
+# Beargle OS     
+
+[![Run on Repl.it](https://replit.com/badge?theme=${theme})](https://repl.it/github/tacocatCLAUS/BeargleOS)
 
 
 ## A Fun and Engaging Web-Based Operating System
