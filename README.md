@@ -1,4 +1,4 @@
-#Beargle OS#
+#Beargle OS
 **A Fun and Engaging Web-Based Operating System**
 Beargle OS is a web-based operating system designed to provide a fun and engaging experience for users. It includes several unblocked applications, including Minecraft and a web browser, making it a perfect choice for entertainment or educational purposes.
 
