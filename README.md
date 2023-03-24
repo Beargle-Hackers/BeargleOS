@@ -1,6 +1,6 @@
 # Beargle OS     
 
-[![Run on Repl.it](https://replit.com/badge?theme=${theme})](https://repl.it/github/tacocatCLAUS/BeargleOS) [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/tacocatCLAUS/BeargleOS)[![download with dropbox](Download With dropbox)](https://www.dropbox.com/s/7bspjuhcqra72dc/Beargle%20OS.zip?dl=1)
+[![Run on Repl.it](https://replit.com/badge?theme=${theme})](https://repl.it/github/tacocatCLAUS/BeargleOS) [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/tacocatCLAUS/BeargleOS)Download With Dropbox(https://www.dropbox.com/s/7bspjuhcqra72dc/Beargle%20OS.zip?dl=1)
 
 
 ## A Fun and Engaging Web-Based Operating System
