@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Operating System</title>
+	<meta name="description" content="Operating System">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: sans-serif;
+			background-image: url('https://cdn.discordapp.com/attachments/1077712454777319445/1083966292081528842/Screen_Shot_2023-03-10_at_11.14.54_PM.png');
+			background-size: cover;
+			background-position: center;
+		}
+		.container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+		}
+		.apps {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin-top: auto;
+			margin-bottom: 20px;
+		}
+		.apps img {
+			width: 80px;
+			margin: 0 20px;
+			cursor: pointer;
+		}
+		.blank-space {
+			flex: 1;
+		}
+		.iframe-container {
+			position: fixed;
+			top: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			background-color: rgba(0, 0, 0, 0.5);
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			z-index: 9999;
+			visibility: hidden;
+		}
+		.iframe-container iframe {
+			width: 80%;
+			height: 80%;
+			border: none;
+			background-color: white;
+		}
+		.close-btn {
+			position: absolute;
+			top: 20px;
+			right: 20px;
+			font-size: 24px;
+			color: white;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="blank-space"></div>
+		<div class="apps">
+			<img src="minecraft.png" alt="Minecraft" onclick="openIframe('https://StrongEmptyCylinders.gilpinfamily.repl.co')">
+			<img src="proxy.png" alt="Proxy" onclick="openIframe('https://ultraiolet-node.gilpinfamily.repl.co/')">
+			<img src="discord.png" alt="Discord" onclick="openIframe('https://ultraiolet-node.gilpinfamily.repl.co/service/hvtrs8%2F-dksaopd%2Ccmm-lmgkn')">
+		<img src="youtube.png" alt="Youtube" onclick="openIframe('https://ultraiolet-node.gilpinfamily.repl.co/service/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-')">
+    <img src="games.png" alt="games" onclick="openIframe('https://ultraiolet-node.gilpinfamily.repl.co/service/hvtrs8%2F-wuw%2Cjkm%60enuqhk.us-ulbnoakgd%2Fgcmgs-')">
+    <img src="spotify.png" alt="spotify" onclick="openIframe('https://ultraiolet-node.gilpinfamily.repl.co/service/hvtrs8%2F-orel.qpmtkf%7B.aoo%2F')">
+       <img src="code.png" alt="code" onclick="openIframe('https://bookmarks.gilpinfamily.repl.co/')">
+      <img src="links.png" alt="links" onclick=window.location.replace("https://sites.google.com/view/theconstitutionofamerica/home?read_current=1");
+
+    </div>
+	</div>
+	<div class="iframe-container" id="iframe-container">
+		<iframe id="app-iframe"></iframe>
+		<div class="close-btn" onclick="closeIframe()">X</div>
+	</div>
+	<script>
+		function openIframe(url) {
+			document.getElementById('iframe-container').style.visibility = 'visible';
+			document.getElementById('app-iframe').src = url;
+		}
+		function closeIframe() {
+			document.getElementById('iframe-container').style.visibility = 'hidden';
+			document.getElementById('app-iframe').src = '';
+		}
+	</script>
+</body>
+</html>
