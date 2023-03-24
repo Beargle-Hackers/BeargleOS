@@ -1,4 +1,5 @@
-# Beargle OS
+# Beargle OS [![Run on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/tacocatCLAUS/BeargleOS)
+
 
 ## A Fun and Engaging Web-Based Operating System
 
