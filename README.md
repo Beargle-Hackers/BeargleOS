@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://scrawnyextralargelearning.altaccount87.repl.co/urmom.png">
 </p>
-<p align="center"><b>Beargle OS</b></p>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/116687416/227744480-bcb68181-0fb7-46da-8c89-d2f1d35d5feb.png">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Python-blue">
