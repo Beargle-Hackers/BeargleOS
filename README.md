@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://scrawnyextralargelearning.altaccount87.repl.co/urmom.png">
 </p>
-# <p align="center">Beargle OS</p>
+<p align="center"><b>Beargle OS</b></p>
+
 
 
 <p align="center">
