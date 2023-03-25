@@ -6,6 +6,8 @@
   <img src="https://user-images.githubusercontent.com/116687416/227744480-bcb68181-0fb7-46da-8c89-d2f1d35d5feb.png">
 </p>
 
+<h3><p align="center">An Advanced Unblocked Operating System</p></h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With-Python-blue">
   <img src="https://img.shields.io/badge/Made%20With-Html-orange">
