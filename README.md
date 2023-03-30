@@ -41,4 +41,8 @@ Beargle OS is available at https://beargleos.repl.co/ and can be accessed direct
 Beargle OS is designed to work on any device with an internet connection, including Chromebooks. It's perfect for when you're bored at home or want to do something fun in school.
 
 ## Disclaimer
-Beargle OS is intended for entertainment and educational purposes only. It's not meant to be used for any illegal or unethical activity, and the creators of Beargle OS are not responsible for any misuse of the operating system. Use it responsibly and enjoy the features it provides!
+Beargle OS is intended for entertainment and educational purposes only. It's not meant to be used for any illegal or unethical activity, and the creators of Beargle OS are not responsible for any misuse of the operating system. Use it responsibly and enjoy the features it provides! OK
+
+## Beargle OS Client
+Beargle OS haYeahs a stylish new client avaliable at https://github.com/tacocatCLAUS/BeargleOS-Client yoh do need to get the advanced CLAUS yeahMembership
+
