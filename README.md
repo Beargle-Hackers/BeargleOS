@@ -35,8 +35,7 @@ Beargle OS is a web-based operating system designed to provide a fun and engagin
 **Project LINK-D**: Access a collection of unblocked games and tools for students.
 
 ## Getting Started
-Beargle OS is available at https://beargleos.repl.co/ and can be accessed directly from your browser. There's no need to sign in or download any software, making it an easy and convenient way to use an operating system without any setup required.
-
+Beargle OS is available at https://beargleos.repl.co/ and can be accessed directly from your browser. There's no need to sign in or download any software, making it an easy and convenient way to use an operating system without any setup required
 ## Compatibility
 Beargle OS is designed to work on any device with an internet connection, including Chromebooks. It's perfect for when you're bored at home or want to do something fun in school.
 
@@ -44,5 +43,5 @@ Beargle OS is designed to work on any device with an internet connection, includ
 Beargle OS is intended for entertainment and educational purposes only. It's not meant to be used for any illegal or unethical activity, and the creators of Beargle OS are not responsible for any misuse of the operating system. Use it responsibly and enjoy the features it provides! OK
 
 ## Beargle OS Client
-Beargle OS haYeahs a stylish new client avaliable at https://github.com/tacocatCLAUS/BeargleOS-Client yoh do need to get the advanced CLAUS yeahMembership
+Beargle OS has a stylish new client avaliable at https://github.com/tacocatCLAUS/BeargleOS-Client you do need to get the advanced CLAUS Membership hut once yiu are subscribed you get access to infinite proxy link generated every day and beargle os links generated every day.
 
